@@ -149,7 +149,7 @@ venv\Scripts\activate
 Inicie o Streamlit:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 O terminal exibirá o endereço local do dashboard. Normalmente, você poderá acessá-lo em:
