@@ -28,5 +28,8 @@ Para a criação do dashboard funcional, se faz necessário dividir a aplicaçã
 
 Para a simulação:
 
-Baixe o arquivo
+Baixe o arquivo;
+Instale as extensões;
+Rode o 'simulador.py'
+Abra o app.py em um terminal usando o comando 'python -m streamlit run app.py'
 
